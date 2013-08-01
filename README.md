@@ -1,4 +1,4 @@
 SocialSpreadsheet-Server.Dart
 =============================
 
-Social Spreadsheet server built using Node to be used with cs3505-SocialSpreadsheet-Client
+Social Spreadsheet server written in Dart to be used with cs3505-SocialSpreadsheet-Client
